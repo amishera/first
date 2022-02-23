@@ -1,0 +1,5 @@
+se\kth\depclean\core\analysis\CollectorClassFileVisitorTest.class
+se\kth\depclean\core\analysis\asmTest\ASMTest.class
+se\kth\depclean\core\analysis\DefaultClassAnalyzerTest.class
+se\kth\depclean\core\analysis\graphTest\DependencyClassFileVisitorTest.class
+se\kth\depclean\core\analysis\ClassFileVisitorUtilsTest.class

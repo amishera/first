@@ -1,0 +1,27 @@
+#Tue Nov 23 13:09:18 EST 2021
+C\:\\Users\\KFy4VGJ\\IdeaProjects\\depclean-master\\depclean-master\\depclean-core\\src\\main\\java\\se\\kth\\depclean\\core\\analysis\\DefaultProjectDependencyAnalyzer.java=1632631450000
+C\:\\Users\\KFy4VGJ\\IdeaProjects\\depclean-master\\depclean-master\\depclean-core\\src\\main\\java\\se\\kth\\depclean\\core\\analysis\\ClassFileVisitor.java=1632631450000
+C\:\\Users\\KFy4VGJ\\IdeaProjects\\depclean-master\\depclean-master\\depclean-core\\src\\main\\java\\se\\kth\\depclean\\core\\analysis\\ProjectDependencyAnalyzer.java=1632631450000
+C\:\\Users\\KFy4VGJ\\IdeaProjects\\depclean-master\\depclean-master\\depclean-core\\src\\main\\java\\se\\kth\\depclean\\core\\analysis\\CollectorClassFileVisitor.java=1632631450000
+C\:\\Users\\KFy4VGJ\\IdeaProjects\\depclean-master\\depclean-master\\depclean-core\\src\\main\\java\\se\\kth\\depclean\\core\\analysis\\DefaultClassAnalyzer.java=1632631450000
+C\:\\Users\\KFy4VGJ\\IdeaProjects\\depclean-master\\depclean-master\\depclean-core\\src\\main\\java\\se\\kth\\depclean\\core\\analysis\\graph\\ClassMembersVisitorCounter.java=1632631450000
+C\:\\Users\\KFy4VGJ\\IdeaProjects\\depclean-master\\depclean-master\\depclean-core\\src\\main\\java\\se\\kth\\depclean\\core\\analysis\\asm\\ASMDependencyAnalyzer.java=1632631450000
+C\:\\Users\\KFy4VGJ\\IdeaProjects\\depclean-master\\depclean-master\\depclean-core\\src\\main\\java\\se\\kth\\depclean\\core\\analysis\\asm\\DefaultAnnotationVisitor.java=1632631450000
+C\:\\Users\\KFy4VGJ\\IdeaProjects\\depclean-master\\depclean-master\\depclean-core\\src\\main\\java\\se\\kth\\depclean\\core\\analysis\\ClassFileVisitorUtils.java=1632631450000
+C\:\\Users\\KFy4VGJ\\IdeaProjects\\depclean-master\\depclean-master\\depclean-core\\src\\main\\java\\se\\kth\\depclean\\core\\analysis\\ProjectDependencyAnalyzerException.java=1632631450000
+configuration*?=3A111A2893D2CE4C1989F4ECFEF45ACEDD7C2E62
+C\:\\Users\\KFy4VGJ\\IdeaProjects\\depclean-master\\depclean-master\\depclean-core\\src\\main\\java\\se\\kth\\depclean\\core\\analysis\\asm\\ConstantPoolParser.java=1632631450000
+C\:\\Users\\KFy4VGJ\\IdeaProjects\\depclean-master\\depclean-master\\depclean-core\\src\\main\\java\\se\\kth\\depclean\\core\\analysis\\asm\\DefaultClassVisitor.java=1632631450000
+C\:\\Users\\KFy4VGJ\\IdeaProjects\\depclean-master\\depclean-master\\depclean-core\\src\\main\\java\\se\\kth\\depclean\\core\\analysis\\asm\\DefaultSignatureVisitor.java=1632631450000
+C\:\\Users\\KFy4VGJ\\IdeaProjects\\depclean-master\\depclean-master\\depclean-core\\src\\main\\java\\se\\kth\\depclean\\core\\analysis\\ClassAnalyzer.java=1632631450000
+C\:\\Users\\KFy4VGJ\\IdeaProjects\\depclean-master\\depclean-master\\depclean-core\\src\\main\\java\\se\\kth\\depclean\\core\\analysis\\ArtifactTypes.java=1632631450000
+C\:\\Users\\KFy4VGJ\\IdeaProjects\\depclean-master\\depclean-master\\depclean-core\\src\\main\\java\\se\\kth\\depclean\\core\\analysis\\asm\\DefaultFieldVisitor.java=1632631450000
+C\:\\Users\\KFy4VGJ\\IdeaProjects\\depclean-master\\depclean-master\\depclean-core\\src\\main\\java\\se\\kth\\depclean\\core\\analysis\\asm\\DefaultMethodVisitor.java=1632631450000
+C\:\\Users\\KFy4VGJ\\IdeaProjects\\depclean-master\\depclean-master\\depclean-core\\src\\main\\java\\se\\kth\\depclean\\core\\analysis\\asm\\DependencyClassFileVisitor.java=1632631450000
+C\:\\Users\\KFy4VGJ\\IdeaProjects\\depclean-master\\depclean-master\\depclean-core\\src\\main\\java\\se\\kth\\depclean\\core\\analysis\\ProjectDependencyAnalysis.java=1632631450000
+C\:\\Users\\KFy4VGJ\\IdeaProjects\\depclean-master\\depclean-master\\depclean-core\\src\\main\\java\\se\\kth\\depclean\\core\\analysis\\package-info.java=1632631450000
+module-resource*?\:checkstyle-xpath-suppressions.xml=844009EDDAB5C5D0483A7FBD23B0A7DCA9F03F39
+module-resource*?\:checkstyle-suppressions.xml=E1CBCBD04DD4C0D6BC1119B3DC77CC75A8E0155E
+C\:\\Users\\KFy4VGJ\\IdeaProjects\\depclean-master\\depclean-master\\depclean-core\\src\\main\\java\\se\\kth\\depclean\\core\\analysis\\DependencyAnalyzer.java=1632631450000
+C\:\\Users\\KFy4VGJ\\IdeaProjects\\depclean-master\\depclean-master\\depclean-core\\src\\main\\java\\se\\kth\\depclean\\core\\analysis\\asm\\ResultCollector.java=1632631450000
+C\:\\Users\\KFy4VGJ\\IdeaProjects\\depclean-master\\depclean-master\\depclean-core\\src\\main\\java\\se\\kth\\depclean\\core\\analysis\\graph\\DefaultCallGraph.java=1632631450000

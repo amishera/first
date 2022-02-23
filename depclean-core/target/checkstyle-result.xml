@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.41">
+<file name="C:\Users\KFy4VGJ\IdeaProjects\depclean-master\depclean-master\depclean-core\src\main\java\se\kth\depclean\core\analysis\ArtifactTypes.java">
+</file>
+<file name="C:\Users\KFy4VGJ\IdeaProjects\depclean-master\depclean-master\depclean-core\src\main\java\se\kth\depclean\core\analysis\asm\ASMDependencyAnalyzer.java">
+</file>
+<file name="C:\Users\KFy4VGJ\IdeaProjects\depclean-master\depclean-master\depclean-core\src\main\java\se\kth\depclean\core\analysis\asm\ConstantPoolParser.java">
+</file>
+<file name="C:\Users\KFy4VGJ\IdeaProjects\depclean-master\depclean-master\depclean-core\src\main\java\se\kth\depclean\core\analysis\asm\DefaultAnnotationVisitor.java">
+</file>
+<file name="C:\Users\KFy4VGJ\IdeaProjects\depclean-master\depclean-master\depclean-core\src\main\java\se\kth\depclean\core\analysis\asm\DefaultClassVisitor.java">
+</file>
+<file name="C:\Users\KFy4VGJ\IdeaProjects\depclean-master\depclean-master\depclean-core\src\main\java\se\kth\depclean\core\analysis\asm\DefaultFieldVisitor.java">
+</file>
+<file name="C:\Users\KFy4VGJ\IdeaProjects\depclean-master\depclean-master\depclean-core\src\main\java\se\kth\depclean\core\analysis\asm\DefaultMethodVisitor.java">
+</file>
+<file name="C:\Users\KFy4VGJ\IdeaProjects\depclean-master\depclean-master\depclean-core\src\main\java\se\kth\depclean\core\analysis\asm\DefaultSignatureVisitor.java">
+</file>
+<file name="C:\Users\KFy4VGJ\IdeaProjects\depclean-master\depclean-master\depclean-core\src\main\java\se\kth\depclean\core\analysis\asm\DependencyClassFileVisitor.java">
+</file>
+<file name="C:\Users\KFy4VGJ\IdeaProjects\depclean-master\depclean-master\depclean-core\src\main\java\se\kth\depclean\core\analysis\asm\ResultCollector.java">
+</file>
+<file name="C:\Users\KFy4VGJ\IdeaProjects\depclean-master\depclean-master\depclean-core\src\main\java\se\kth\depclean\core\analysis\ClassAnalyzer.java">
+</file>
+<file name="C:\Users\KFy4VGJ\IdeaProjects\depclean-master\depclean-master\depclean-core\src\main\java\se\kth\depclean\core\analysis\ClassFileVisitor.java">
+</file>
+<file name="C:\Users\KFy4VGJ\IdeaProjects\depclean-master\depclean-master\depclean-core\src\main\java\se\kth\depclean\core\analysis\ClassFileVisitorUtils.java">
+</file>
+<file name="C:\Users\KFy4VGJ\IdeaProjects\depclean-master\depclean-master\depclean-core\src\main\java\se\kth\depclean\core\analysis\CollectorClassFileVisitor.java">
+</file>
+<file name="C:\Users\KFy4VGJ\IdeaProjects\depclean-master\depclean-master\depclean-core\src\main\java\se\kth\depclean\core\analysis\DefaultClassAnalyzer.java">
+</file>
+<file name="C:\Users\KFy4VGJ\IdeaProjects\depclean-master\depclean-master\depclean-core\src\main\java\se\kth\depclean\core\analysis\DefaultProjectDependencyAnalyzer.java">
+</file>
+<file name="C:\Users\KFy4VGJ\IdeaProjects\depclean-master\depclean-master\depclean-core\src\main\java\se\kth\depclean\core\analysis\DependencyAnalyzer.java">
+</file>
+<file name="C:\Users\KFy4VGJ\IdeaProjects\depclean-master\depclean-master\depclean-core\src\main\java\se\kth\depclean\core\analysis\graph\ClassMembersVisitorCounter.java">
+</file>
+<file name="C:\Users\KFy4VGJ\IdeaProjects\depclean-master\depclean-master\depclean-core\src\main\java\se\kth\depclean\core\analysis\graph\DefaultCallGraph.java">
+</file>
+<file name="C:\Users\KFy4VGJ\IdeaProjects\depclean-master\depclean-master\depclean-core\src\main\java\se\kth\depclean\core\analysis\package-info.java">
+</file>
+<file name="C:\Users\KFy4VGJ\IdeaProjects\depclean-master\depclean-master\depclean-core\src\main\java\se\kth\depclean\core\analysis\ProjectDependencyAnalysis.java">
+</file>
+<file name="C:\Users\KFy4VGJ\IdeaProjects\depclean-master\depclean-master\depclean-core\src\main\java\se\kth\depclean\core\analysis\ProjectDependencyAnalyzer.java">
+</file>
+<file name="C:\Users\KFy4VGJ\IdeaProjects\depclean-master\depclean-master\depclean-core\src\main\java\se\kth\depclean\core\analysis\ProjectDependencyAnalyzerException.java">
+</file>
+</checkstyle>
